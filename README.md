@@ -1,10 +1,35 @@
-# Material Complementar Des. Sistemas - Venda uma Ideia Inovadora
+# Material para o Curso Desenvolvimento de Sistemas
 
-# [Venda uma Ideia Inovadora](https://docs.google.com/presentation/d/1TkfwgcsNGeerctfWxV0DbTlnn8ujM0KY8OKwtzRSOeg/edit?usp=sharing)
-# [Exemplo de Aplicação do Canvas](https://docs.google.com/document/d/1cvaQ5LMnclyIWeka_fNDWIJvEYUQM8NaEPeOaLq9Z1w/edit?usp=sharing)
-# [Exemplo de Definição de Metas SMART](https://docs.google.com/document/d/1WCmLqn36Wjv9leOliRW7zueQnE_I941Jhsq8vxJWRkw/edit?usp=sharing)
-# [Resumo da Prova de Educacao Colaborativa](https://docs.google.com/document/d/1OjyOVsSUMdJIki1uA4X6KpKnURRdraJDxzot_WNTxqc/edit?usp=sharing)
-# [Atividade de Sistemas Operacionais](https://docs.google.com/document/d/1YgweACy-0Yo-Tb3EgR0M7OUOsTvsKwIWQN0jzgzsaeI/edit?usp=sharing)
+#Fundamentos de Programação
+
+# [Atividade Prática - Condicionais](https://docs.google.com/presentation/d/1TkfwgcsNGeerctfWxV0DbTlnn8ujM0KY8OKwtzRSOeg/edit?usp=sharing)
+
+Atividade Prática pt.1
+
+# [Fluxograma Calculadora de IMCs](https://docs.google.com/presentation/d/1TkfwgcsNGeerctfWxV0DbTlnn8ujM0KY8OKwtzRSOeg/edit?usp=sharing)
+# [Fluxograma Caixa Eletrônico](https://docs.google.com/document/d/1cvaQ5LMnclyIWeka_fNDWIJvEYUQM8NaEPeOaLq9Z1w/edit?usp=sharing)
+
+Atividade Prática pt.2
+
+# [Algoritmo Calculadora de IMCs] Em Breve
+# [Algoritmo Caixa Eletrônico] Em Breve
+
+# [Lista de Exercícios - Condicionais](https://docs.google.com/presentation/d/1TkfwgcsNGeerctfWxV0DbTlnn8ujM0KY8OKwtzRSOeg/edit?usp=sharing)
+
+# [Exercício 01] Em Breve
+# [Exercício 02] Em Breve
+# [Exercício 03] Em Breve
+# [Exercício 04] Em Breve
+# [Exercício 05] Em Breve
+# [Exercício 06] Em Breve
+# [Exercício 07] Em Breve
+# [Exercício 08] Em Breve
+# [Exercício 09] Em Breve
+# [Exercício 10] Em Breve
+# [Exercício 11] Em Breve
+# [Exercício 12] Em Breve
+# [Exercício 13] Em Breve
+# [Exercício 14] Em Breve
 
 
 
