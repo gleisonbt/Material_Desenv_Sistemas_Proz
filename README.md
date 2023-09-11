@@ -15,7 +15,7 @@
 ### [Algoritmo Calculadora de IMCs] Em Breve
 ### [Algoritmo Caixa Eletrônico] Em Breve
 
-### [Lista de Exercícios - Condicionais](https://docs.google.com/presentation/d/1TkfwgcsNGeerctfWxV0DbTlnn8ujM0KY8OKwtzRSOeg/edit?usp=sharing)
+### [Lista de Exercícios - Condicionais](https://github.com/gleisonbt/Material_Complementar_Des_Sistemas/blob/main/Lista_Exercicios_Condicional.pdf)
 ### Gabaritos
  - [Exercício 01] Em Breve
  - [Exercício 02] Em Breve
