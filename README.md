@@ -3,7 +3,7 @@
 
 ### Fundamentos de Programação
 
-### [Atividade Prática - Condicionais](https://docs.google.com/presentation/d/1TkfwgcsNGeerctfWxV0DbTlnn8ujM0KY8OKwtzRSOeg/edit?usp=sharing)
+### [Atividade Prática - Condicionais](https://github.com/gleisonbt/Material_Complementar_Des_Sistemas/blob/main/Trabalho_Pratico_Condicionais.pdf)
 
 #### Atividade Prática pt.1
 
