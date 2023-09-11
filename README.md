@@ -7,8 +7,8 @@
 
 #### Atividade Prática pt.1
 
-### [Fluxograma Calculadora de IMCs](https://docs.google.com/presentation/d/1TkfwgcsNGeerctfWxV0DbTlnn8ujM0KY8OKwtzRSOeg/edit?usp=sharing)
-### [Fluxograma Caixa Eletrônico](https://docs.google.com/document/d/1cvaQ5LMnclyIWeka_fNDWIJvEYUQM8NaEPeOaLq9Z1w/edit?usp=sharing)
+### [Fluxograma Calculadora de IMCs](https://github.com/gleisonbt/Material_Complementar_Des_Sistemas/blob/main/Calculadora_IMC.pdf)
+### [Fluxograma Caixa Eletrônico](https://github.com/gleisonbt/Material_Complementar_Des_Sistemas/blob/main/Caixa_Eletronico.pdf)
 
 #### Atividade Prática pt.2
 
