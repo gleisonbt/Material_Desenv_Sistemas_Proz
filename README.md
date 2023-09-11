@@ -16,6 +16,7 @@
 ### [Algoritmo Caixa Eletrônico] Em Breve
 
 ### [Lista de Exercícios - Condicionais](https://docs.google.com/presentation/d/1TkfwgcsNGeerctfWxV0DbTlnn8ujM0KY8OKwtzRSOeg/edit?usp=sharing)
+### Gabaritos
  - [Exercício 01] Em Breve
  - [Exercício 02] Em Breve
  - [Exercício 03] Em Breve
