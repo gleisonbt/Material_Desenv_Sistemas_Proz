@@ -17,13 +17,13 @@
 
 ### [Lista de Exercícios - Condicionais](https://github.com/gleisonbt/Material_Complementar_Des_Sistemas/blob/main/Lista_Exercicios_Condicional.pdf)
 ### Gabaritos
- - [Exercício 01] Em Breve
- - [Exercício 02] Em Breve
- - [Exercício 03] Em Breve
- - [Exercício 04] Em Breve
- - [Exercício 05] Em Breve
- - [Exercício 06] Em Breve
- - [Exercício 07] Em Breve
+ - [Exercício 01] (https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2001.ALG)
+ - [Exercício 02] (https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2002.ALG)
+ - [Exercício 03] (https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2003.ALG)
+ - [Exercício 04] (https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2004.ALG)
+ - [Exercício 05] (https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2005.ALG)
+ - [Exercício 06] (https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2006.ALG)
+ - [Exercício 07] (https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2007.ALG)
  - [Exercício 08] Em Breve
  - [Exercício 09] Em Breve
  - [Exercício 10] Em Breve
