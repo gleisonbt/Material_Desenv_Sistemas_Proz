@@ -31,3 +31,15 @@
  - [Exercício 12] Em Breve
  - [Exercício 13] Em Breve
  - [Exercício 14] Em Breve
+
+### [Lista de Exercícios - Repetição](https://github.com/gleisonbt/Material_Complementar_Des_Sistemas/blob/main/Lista_Exercicios_Repetições.pdf)
+### Gabaritos
+ - [Exercício 01] Em Breve
+ - [Exercício 02] Em Breve
+ - [Exercício 03] Em Breve
+ - [Exercício 04] Em Breve
+ - [Exercício 05] Em Breve
+ - [Exercício 06] Em Breve
+ - [Exercício 07] Em Breve
+ - [Exercício 08] Em Breve
+ - [Exercício 09] Em Breve
