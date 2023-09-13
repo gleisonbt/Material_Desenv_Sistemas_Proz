@@ -34,8 +34,8 @@
 
 ### [Lista de Exercícios - Repetição](https://github.com/gleisonbt/Material_Complementar_Des_Sistemas/blob/main/Lista_Exercicios_Repetições.pdf)
 ### Gabaritos
- - [Exercício 01] Em Breve
- - [Exercício 02] Em Breve
+ - [Exercício 01](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2001.ALG)
+ - [Exercício 02](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2002.ALG)
  - [Exercício 03] Em Breve
  - [Exercício 04] Em Breve
  - [Exercício 05] Em Breve
