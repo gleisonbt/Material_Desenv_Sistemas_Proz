@@ -1,26 +1,25 @@
 Algoritmo "Caixa_Eletronico"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : Gleison Brito
+// Autor(a)    : Gleison Brito
 // Data atual  : 14/09/2023
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    saldo, deposito, saque: real
    operacao:inteiro
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 escreval("*=============================================*")
 escreval("*======   Algoritmo Caixa Eletronico  ========*")
 escreval("*=============================================*")
 escreval("*===============    MENU    ==================*")
 escreval("* 1- SAQUE                                    *")
-escreval("* 2- DEPÓSITO                                 *")
+escreval("* 2- DEPÃ“SITO                                 *")
 escreval("* 3- SALDO                                    *")
 escreval("*=============================================*")
-escreva("Informe a operação desejada........: ")
+escreva("Informe a operaÃ§Ã£o desejada........: ")
 
 saldo <- 1000
 leia(operacao)
@@ -34,7 +33,7 @@ escolha(operacao)
        saldo <- saldo - saque
        escreval("Valor do saldo.....................:", saldo)
     caso 2
-       escreva("Informe o valor do depósito........: ")
+       escreva("Informe o valor do depÃ³sito........: ")
        leia(deposito)
        saldo <- saldo + deposito
        escreval("Valor do saldo.....................:", saldo)
