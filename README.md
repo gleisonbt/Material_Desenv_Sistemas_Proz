@@ -12,8 +12,8 @@
 
 #### Atividade Prática pt.2
 
-### [Algoritmo Calculadora de IMCs] Em Breve
-### [Algoritmo Caixa Eletrônico] Em Breve
+### [Algoritmo Calculadora de IMCs](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/CALCULADORA_IMC.ALG)
+### [Algoritmo Caixa Eletrônico](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/CAIXA_ELETRONICO.ALG)
 
 ### [Lista de Exercícios - Condicionais](https://github.com/gleisonbt/Material_Complementar_Des_Sistemas/blob/main/Lista_Exercicios_Condicional.pdf)
 ### Gabaritos
