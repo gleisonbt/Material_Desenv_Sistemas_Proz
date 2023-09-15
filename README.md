@@ -32,6 +32,9 @@
  - [Exercício 13](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2013.ALG)
  - [Exercício 14](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2014.ALG)
 
+
+### [Atividade Prática 2 - Condicionais](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/Trabalho_Pratico_2.pdf)
+
 ### [Lista de Exercícios - Repetição](https://github.com/gleisonbt/Material_Complementar_Des_Sistemas/blob/main/Lista_Exercicios_Repetições.pdf)
 ### Gabaritos
  - [Exercício 01](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2001.ALG)
