@@ -24,13 +24,13 @@
  - [Exercício 05](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2005.ALG)
  - [Exercício 06](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2006.ALG)
  - [Exercício 07](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2007.ALG)
- - [Exercício 08]Em Breve
- - [Exercício 09]Em Breve
- - [Exercício 10]Em Breve
- - [Exercício 11]Em Breve
- - [Exercício 12]Em Breve
- - [Exercício 13]Em Breve
- - [Exercício 14]Em Breve
+ - [Exercício 08](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2008.ALG)
+ - [Exercício 09](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2009.ALG)
+ - [Exercício 10](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2010.ALG)
+ - [Exercício 11](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2011.ALG)
+ - [Exercício 12](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2012.ALG)
+ - [Exercício 13](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2013.ALG)
+ - [Exercício 14](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_condicional/QUESTAO%2014.ALG)
 
 ### [Lista de Exercícios - Repetição](https://github.com/gleisonbt/Material_Complementar_Des_Sistemas/blob/main/Lista_Exercicios_Repetições.pdf)
 ### Gabaritos
