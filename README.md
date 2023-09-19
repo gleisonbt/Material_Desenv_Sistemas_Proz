@@ -39,10 +39,10 @@
 ### Gabaritos
  - [Exercício 01](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2001.ALG)
  - [Exercício 02](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2002.ALG)
- - [Exercício 03] Em Breve
- - [Exercício 04] Em Breve
- - [Exercício 05] Em Breve
- - [Exercício 06] Em Breve
- - [Exercício 07] Em Breve
- - [Exercício 08] Em Breve
- - [Exercício 09] Em Breve
+ - [Exercício 03](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2003.ALG)
+ - [Exercício 04](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2004.ALG)
+ - [Exercício 05](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2005.ALG)
+ - [Exercício 06](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2006.ALG)
+ - [Exercício 07](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2007.ALG)
+ - [Exercício 08](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2008.ALG)
+ - [Exercício 09](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2009.ALG)
