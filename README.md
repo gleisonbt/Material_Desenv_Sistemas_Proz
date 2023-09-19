@@ -46,3 +46,14 @@
  - [Exercício 07](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2007.ALG)
  - [Exercício 08](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2008.ALG)
  - [Exercício 09](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_repeticao/QUESTAO%2009.ALG)
+
+### [Lista de Exercícios - Repetição](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/Lista_Exercicios_Vetores.pdf)
+### Gabaritos
+ - [Exercício 01] Em breve
+ - [Exercício 02] Em breve
+ - [Exercício 03] Em breve
+ - [Exercício 04] Em breve
+ - [Exercício 05] Em breve
+ - [Exercício 06] Em breve
+ - [Exercício 07] Em breve
+ - [Exercício 08] Em breve
