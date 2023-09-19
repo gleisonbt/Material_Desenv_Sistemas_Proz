@@ -49,8 +49,8 @@
 
 ### [Lista de Exercícios - Vetores](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/Lista_Exercicios_Vetores.pdf)
 ### Gabaritos
- - [Exercício 01] Em breve
- - [Exercício 02] Em breve
+ - [Exercício 01](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_vetor/QUESTAO%2001.ALG)
+ - [Exercício 02](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_vetor/QUESTAO%2002.ALG)
  - [Exercício 03] Em breve
  - [Exercício 04] Em breve
  - [Exercício 05] Em breve
