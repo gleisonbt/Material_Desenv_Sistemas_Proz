@@ -58,3 +58,5 @@
  - [Exercício 06] Em breve
  - [Exercício 07] Em breve
  - [Exercício 08] Em breve
+
+### [Exemplo de Aplicação de Matrizes - Jogo da Velha](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/TIC_TAC_TOE.ALG))
