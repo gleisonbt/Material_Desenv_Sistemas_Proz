@@ -61,4 +61,15 @@
 
 ### [Exemplo de Aplicação de Matrizes - Jogo da Velha](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/TIC_TAC_TOE.ALG)
 
+### [Lista de Exercícios - Matrizes](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/Lista_Exercicios_Matrizes.pdf)
+### Gabaritos
+ - [Exercício 01](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_vetor/QUESTAO%2001.ALG)
+ - [Exercício 02](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_vetor/QUESTAO%2002.ALG)
+ - [Exercício 03](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_vetor/QUESTAO%2003.ALG)
+ - [Exercício 04] Em breve
+ - [Exercício 05] Em breve
+ - [Exercício 06] Em breve
+ - [Exercício 07] Em breve
+ - [Exercício 08] Em breve
+
 ### [Atividade Prática 3 - Lógica de Programação](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/Trabalho_Pratico_3.pdf)
