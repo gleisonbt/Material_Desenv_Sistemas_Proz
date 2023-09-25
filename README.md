@@ -60,3 +60,5 @@
  - [Exercício 08](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_vetor/QUESTAO%2008.ALG)
 
 ### [Exemplo de Aplicação de Matrizes - Jogo da Velha](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/TIC_TAC_TOE.ALG)
+
+### [Atividade Prática 3 - Lógica de Programação](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/Trabalho_Pratico_3.pdf)
