@@ -35,6 +35,9 @@
 
 ### [Atividade Prática 2 - Lógica de Programação](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/Trabalho_Pratico_2.pdf)
 #### [Sugestão de passo-a-passo para resolução da Atividade Prática 2](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/Passo-A-Passo_Caixa_Registradora.pdf)
+#### Atividade Prática 2 - Gabarito
+### [Algoritmo Caixa Registradora](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/CAIXA_REGISTRADORA.ALG)
+
 
 ### [Lista de Exercícios - Repetição](https://github.com/gleisonbt/Material_Complementar_Des_Sistemas/blob/main/Lista_Exercicios_Repetições.pdf)
 ### Gabaritos
