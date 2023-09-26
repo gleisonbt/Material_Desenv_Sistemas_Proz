@@ -70,6 +70,5 @@
  - [Exercício 05] Em breve
  - [Exercício 06] Em breve
  - [Exercício 07] Em breve
- - [Exercício 08] Em breve
 
 ### [Atividade Prática 3 - Lógica de Programação](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/Trabalho_Pratico_3.pdf)
