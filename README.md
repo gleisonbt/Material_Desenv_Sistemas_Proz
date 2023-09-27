@@ -75,3 +75,8 @@
  - [Exercício 07](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_matriz/QUESTAO%2007.ALG)
 
 ### [Atividade Prática 3 - Lógica de Programação](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/Trabalho_Pratico_3.pdf)
+
+
+#### Algoritmos de Ordenação
+- [Bubble Sort](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_matriz/QUESTAO%2001.ALG)
+- [Insertion Sort](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_matriz/QUESTAO%2001.ALG)
