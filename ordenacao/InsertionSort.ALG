@@ -1,17 +1,16 @@
 Algoritmo "insertion sort"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : Gleison Brito
+// Autor(a)    : Gleison Brito
 // Data atual  : 27/09/2023
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    vet: vetor[0..5] de inteiro
    cont1, cont2, eleito:inteiro
 
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    para cont1 de 0 ate 5 faca
       aleatorio on
       leia(vet[cont1])
