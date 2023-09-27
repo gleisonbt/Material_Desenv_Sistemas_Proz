@@ -78,5 +78,5 @@
 
 
 #### Algoritmos de Ordenação
-- [Bubble Sort](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_matriz/QUESTAO%2001.ALG)
-- [Insertion Sort](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_matriz/QUESTAO%2001.ALG)
+- [Bubble Sort](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/ordenacao/BubbleSort.ALG)
+- [Insertion Sort](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/ordenacao/InsertionSort.ALG)
