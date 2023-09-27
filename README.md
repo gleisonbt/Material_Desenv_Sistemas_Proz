@@ -81,4 +81,5 @@
 - [Bubble Sort](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/ordenacao/BubbleSort.ALG)
 - [Insertion Sort](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/ordenacao/InsertionSort.ALG)
 
+![](img/profile.jpg | width=100)
 ![When I was young...](img/profile.jpg |width=50)
