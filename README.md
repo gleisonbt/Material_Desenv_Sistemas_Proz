@@ -76,8 +76,7 @@
 
 ### [Atividade Prática 3 - Lógica de Programação](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/Trabalho_Pratico_3.pdf)
 
-
-#### Algoritmos de Ordenação
+#### [Algoritmos de Ordenação](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/ordenacao/BubbleSort.ALG)
 - [Bubble Sort](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/ordenacao/BubbleSort.ALG)
 - [Insertion Sort](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/ordenacao/InsertionSort.ALG)
 
