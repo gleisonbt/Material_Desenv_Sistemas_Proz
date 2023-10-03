@@ -80,5 +80,7 @@
 - [Bubble Sort](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/ordenacao/BubbleSort.ALG)
 - [Insertion Sort](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/ordenacao/InsertionSort.ALG)
 
+### [Comparação Portugol/Python](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/ComparacaoPortugolPython.pdf)
+
 <img src='img/profile.jpg' width='150'>
 When I was young... :)
