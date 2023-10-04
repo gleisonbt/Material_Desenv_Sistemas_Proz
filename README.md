@@ -75,6 +75,8 @@
  - [Exercício 07](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/lista_matriz/QUESTAO%2007.ALG)
 
 ### [Atividade Prática 3 - Lógica de Programação](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/Trabalho_Pratico_3.pdf)
+#### Atividade Prática 3 - Gabarito
+### [Algoritmo Sistema Acadêmico](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/TRABALHO_PRATICO_03.ALG)
 
 #### [Algoritmos de Ordenação](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/ordenacao/Material%20Complementar%20-%20Ordena%C3%A7%C3%A3o.pdf)
 - [Bubble Sort](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/ordenacao/BubbleSort.ALG)
