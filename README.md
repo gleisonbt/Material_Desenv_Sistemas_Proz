@@ -90,6 +90,12 @@
 
 ### [Exemplo de opecações com dicionarios](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/dicionario.py)
 
+### [Algoritmos para Revisão da Prova - Lógica de Programação](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/revisao_prova)
+### Além dos algoritmos:
+ 1. Diferença entre linguagens de alto nível e linguagens de baixo nível
+ 2. Diferença entre Programação Estruturada e Programação Orientada a Objetos
+ 3. Inportância de organização, identação e bons nomes de variáveis
+ 4. Passo a passo do algoritmo de ordenação Bubble Sort (Ilustração do funcionamento do algoritmo na apostila)
 
 
 <img src='img/profile.jpg' width='150'>
