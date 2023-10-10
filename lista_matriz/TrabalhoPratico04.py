@@ -121,7 +121,7 @@ def menu():
         cadastra_aluno(matricula, nome, idade)
         inicializa_notas_aluno(matricula)
     elif(opcao == 2):
-        matricula = int(input("Informe a matrícula: "))
+        matricula = int(input("Informe a matrículza: "))
         cod_disciplina = int(input("Informe o código da disciplina: "))
         cadastra_notas_aluno(matricula, cod_disciplina)
     elif(opcao == 3):
