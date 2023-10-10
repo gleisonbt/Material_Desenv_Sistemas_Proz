@@ -96,6 +96,7 @@
  2. Diferença entre Programação Estruturada e Programação Orientada a Objetos
  3. Inportância de organização, identação e bons nomes de variáveis
  4. Passo a passo do algoritmo de ordenação Bubble Sort (Ilustração do funcionamento do algoritmo na apostila)
+ 5. Fluxograma
 
 
 <img src='img/profile.jpg' width='150'>
