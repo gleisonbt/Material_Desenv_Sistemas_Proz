@@ -85,8 +85,11 @@
 ### [Comparação Portugol/Python](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/ComparacaoPortugolPython.pdf)
 
 ### [Atividade Prática 4 - Lógica de Programação/Python](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/TrabalhoPratico04.pdf)
+#### Atividade Prática 4 - Gabarito
+### [Algoritmo Sistema Acadêmico](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/TrabalhoPratico04.py)
 
 ### [Exemplo de opecações com dicionarios](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/dicionario.py)
+
 
 
 <img src='img/profile.jpg' width='150'>
