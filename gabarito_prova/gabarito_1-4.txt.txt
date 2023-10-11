@@ -1,0 +1,5 @@
+1 - V F V V
+2 - [1,2,3,5,9]
+3 - V F F F
+4 - A indentação e a escolha de identificadores descritivos são práticas importantes para melhorar
+a legibilidade e a compreensão do código, facilitando sua manutenção e colaboração entre os desenvolvedores
