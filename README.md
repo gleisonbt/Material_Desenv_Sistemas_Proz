@@ -98,6 +98,7 @@
  4. Passo a passo do algoritmo de ordenação Bubble Sort (Ilustração do funcionamento do algoritmo na apostila)
  5. Fluxograma
 
+### [Gabarito da Prova - Lógica de Programação](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/tree/main/gabarito_prova)
 
 <img src='img/profile.jpg' width='150'>
 When I was young... :)
