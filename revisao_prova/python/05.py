@@ -5,7 +5,7 @@ de uma sequência de números inteiros em um formato específico.
 A compressão consiste em representar uma sequência de números repetidos
 indicando o número e a quantidade de repetições. Por exemplo, a sequência
 [1, 1, 1, 2, 2, 3, 4, 4, 4, 4] comprimida fica [1, 3, 2, 2, 3, 1, 4, 4].
-Escreva um algoritmo que comprima uma sequência de números inteiros, onde a
+Escreva um algoritmo que comprima uma sequência de números inteir\os, onde a
 sequência está armazenada em um vetor/lista. Seu algoritmo deve receber uma
 sequência de números em um vetor/lista e exibir na tela a sequência comprimida.
 """

@@ -4,6 +4,7 @@ import random
 Inicializar matriz 2x3 com valores aleatórios entre 0 e 2
 Percorrer a matriz e contar quantas células tem o valor 1
 """
+
 matriz = [[],[]]
 for cont_linha in range(0,2):
     for cont_coluna in range(0,3):
