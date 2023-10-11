@@ -1,14 +1,14 @@
 Algoritmo "09"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e Lï¿½gica de Programaï¿½ï¿½o]
 // Professor   : Gleison Brito
 // Data atual  : 11/10/2023
 Var
 list: vetor[0..4] de caractere
 
-funcao verifica_simetria: logico
+funcao verifica_palindromo: logico
 var
    cont_esquerda, cont_direita:inteiro
-   simetrico:logico
+   palindromo:logico
 
 inicio
    cont_esquerda <- 0
@@ -24,7 +24,7 @@ inicio
        cont_direita <- cont_direita - 1
    fimenquanto
 
-   retorne simetrico
+   retorne palindromo
 
 fimfuncao
 
@@ -37,7 +37,7 @@ list[2] <- "a"
 list[3] <- "r"
 list[4] <- "a"
 
-escreval(verifica_simetria)
+escreval(verifica_palindromo)
 
 list[0] <- "a"
 list[1] <- "b"
@@ -45,6 +45,6 @@ list[2] <- "c"
 list[3] <- "d"
 list[4] <- "e"
 
-escreval(verifica_simetria)
+escreval(verifica_palindromo)
 
 Fimalgoritmo
