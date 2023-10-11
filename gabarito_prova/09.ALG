@@ -13,11 +13,11 @@ var
 inicio
    cont_esquerda <- 0
    cont_direita <- 4
-   simetrico <- Verdadeiro
+   palindromo <- Verdadeiro
 
    enquanto cont_esquerda <= cont_direita faca
        se list[cont_esquerda] <> list[cont_direita] entao
-            simetrico <- Falso
+            palindromo <- Falso
             cont_esquerda <- cont_direita
        fimse
        cont_esquerda <- cont_esquerda + 1
