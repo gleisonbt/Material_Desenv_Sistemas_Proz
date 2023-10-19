@@ -10,9 +10,9 @@
  
  #### Listas de Exercícios
   - [Condicionais](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/tree/main/Fundamentos_De_Programacao/lista_condicional)
- - [Repetição](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/tree/main/Fundamentos_De_Programacao/lista_matriz) 
- - [Vetores](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/tree/main/Fundamentos_De_Programacao/lista_repeticao)
- - [Matrizes](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/tree/main/Fundamentos_De_Programacao/lista_vetor)
+ - [Repetição](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/tree/main/Fundamentos_De_Programacao/lista_repeticao) 
+ - [Vetores](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/tree/main/Fundamentos_De_Programacao/lista_vetor)
+ - [Matrizes](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/tree/main/Fundamentos_De_Programacao/lista_matriz)
 
 #### [Comparação Portugol/Python](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/blob/main/Fundamentos_De_Programacao/PortugolVsPython.pdf)
 
