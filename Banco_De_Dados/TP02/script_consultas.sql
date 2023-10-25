@@ -51,3 +51,17 @@ where iv.IDDaVenda = 1;
 -- desconsiderar, necessita de recursos mais avançados
 
 -- questao 13
+-- desconsiderar, necessita de recursos mais avançados
+
+-- questao 14
+-- step 01
+SELECT * from fornecedores INNER JOIN produtos;
+-- step 02
+SELECT * from Fornecedores f INNER JOIN Produtos p;
+-- step 03
+SELECT * from Fornecedores f INNER JOIN Produtos p ON f.ID = p.Fornecedor;
+-- step 04
+SELECT * from Fornecedores f INNER JOIN Produtos p ON f.ID = p.Fornecedor GROUP BY f.ID;
+-- step 05
+SELECT * from Fornecedores f INNER JOIN Produtos p ON f.ID = p.Fornecedor GROUP BY f.ID
+HAVING SUM(p.QuantidadeEmEstoque) > 60;
