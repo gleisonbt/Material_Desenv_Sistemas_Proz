@@ -7,4 +7,4 @@
  - [Trabalho Prático 02](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/tree/main/Banco_De_Dados/TP02)
 
   
-#### [Prova](Em breve...)
+#### [Prova - Revisão](https://github.com/gleisonbt/Material_Desenv_Sistemas_Proz/tree/main/Banco_De_Dados/revisao.pdf) 
