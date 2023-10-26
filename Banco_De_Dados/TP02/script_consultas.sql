@@ -64,4 +64,4 @@ SELECT * from Fornecedores f INNER JOIN Produtos p ON f.ID = p.Fornecedor;
 SELECT * from Fornecedores f INNER JOIN Produtos p ON f.ID = p.Fornecedor GROUP BY f.ID;
 -- step 05
 SELECT * from Fornecedores f INNER JOIN Produtos p ON f.ID = p.Fornecedor GROUP BY f.ID
-HAVING SUM(p.QuantidadeEmEstoque) > 60;
+HAVING p.QuantidadeEmEstoque > 10;
