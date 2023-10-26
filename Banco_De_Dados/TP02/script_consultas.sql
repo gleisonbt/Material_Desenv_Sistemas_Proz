@@ -51,7 +51,7 @@ where iv.IDDaVenda = 1;
 -- desconsiderar, necessita de recursos mais avançados
 
 -- questao 13
--- desconsiderar
+-- desconsiderar, necessita de recursos mais avançados
 
 -- questao 14
 -- step 01
