@@ -1,0 +1,73 @@
+<html>
+    <head>
+        <title>Formulários</title>
+    </head>
+    <body>
+        <form action="" method="get">
+            <label for="nome">Nome: </label>
+            <input name="nome" type="text">
+
+            <label for="email">E-mail: </label>
+            <input name="email"type="email">
+
+            <br><br>
+
+            <label for="telefone">Telefone: </label>
+            <input name="telefone" type="tel" placeholder="(99)99999-9999">
+
+            <label for="horas">Horas trabalhadas: </label>
+            <input name="horas" type="time">
+
+            <br><br>
+
+            <label for="site">Seu site: </label>
+            <input name="site" type="url">
+
+            <label for="senha">Senha: </label>
+            <input name="senha" type="password">
+
+            <br><br>
+
+            <label for="dataNasc">Data de Nascimento: </label>
+            <input name="dataNasc" type="date">
+
+            <label for="cor">Cor Favorita: </label>
+            <input name="cor" type="color">
+
+            <br><br>
+
+            <label for="qtdeFilhos">Qtde de Filhos: </label>
+            <input name="qtdeFilhos" type="number" min="0">
+
+            <label for="peso">Peso: </label>
+            0<input name="peso" type="range" min="0" max="200">200
+
+            <br><br>
+
+            <label for="">Sexo:</label>
+            <input name="sexo" type="radio" value="masculino">
+            <label for="sexo">Masculino</label>
+            <input name="sexo" type="radio" value="feminino">
+            <label for="sexo">Feminino</label>
+
+            <br><br>
+            
+            <label for="estados">Estado: </label>
+            <select name="estados">
+                <option value="MG">MG</option>
+                <option value="SP">SP</option>
+                <option value="PI">PI</option>
+                <option value="MA">MA</option>
+                <option value="ES">ES</option>
+            </select>
+
+            <br><br>
+            <label for="comentario">Comentario: </label>
+            <br>
+            <textarea name="comentario" cols="30" rows="10"></textarea>
+
+            <br><br>
+            <input name="btnSubmeter" type="submit">
+        </form>
+    </body>
+</html>
