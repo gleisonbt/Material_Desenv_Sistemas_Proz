@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <title>Grid 3</title>
+        <style>
+            header{
+                background-color: aqua;
+                grid-area: header;
+            }
+            #aside1 {
+                background-color: yellow;
+                grid-area: aside1;
+            }
+
+            #aside2 {
+                background-color: yellow;
+                grid-area: aside2;
+            }
+            main {
+                background-color: blue;
+                border: 1px solid; 
+                grid-area: main;
+            }
+
+            footer {
+                background-color: green;
+                grid-area: footer;
+            }
+
+            .container {
+                display: grid;
+                grid-template-rows: 20% 75% 5%;
+                grid-template-columns: 20% 60% 20%;
+                grid-template-areas : 
+                "header header header"
+                "aside1 main aside2"
+                "footer footer footer";
+                height: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <header>
+            
+            </header>
+    
+            <aside id="aside1">
+            </aside> 
+
+            <main>
+    
+            </main>
+                
+            <aside id="aside2">
+            </aside>
+
+            <footer>
+        
+            </footer>
+
+        </div>
+    </body>
+</html>
