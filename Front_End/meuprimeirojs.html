@@ -1,0 +1,134 @@
+<html>
+    <head>
+        <title>Meu primeiro JS</title>
+    </head>
+    <body>
+        <form method="get">
+            <input id="nome" type="text">
+        </form>
+
+        <button id="botao">Clique Aqui</button>
+
+        <script>
+            document.getElementById("botao").
+            addEventListener("click", function(){
+                alert(document.getElementById("nome").value);
+            });
+        </script>
+
+        <!--button onclick="alert('Clicado');">Clique Aqui!</button-->
+
+        <!--script>
+            var idade;
+            idade = prompt("Informe a idade: ");
+            var nome;
+            nome = prompt("Informe o nome: ");
+            var peso = prompt("Infome o peso: ");
+            
+            alert("A idade do " + nome + " é " + idade);
+            alert(nome + " - " + peso);
+            //alert(4 + 6);
+        </script-->
+        <!--script>
+            var idade = prompt("Informe a idade: ");
+            if (idade < 18) {
+                alert("Menor de idade!");
+            } else {
+                alert("Maior de idade!");
+            }
+        </script-->
+        <!--script>
+            var idade = prompt("Informe a idade: ");
+            if (idade > 0 && idade < 18) {
+                alert("Menor de idade");
+            }
+        </script-->
+        <!--script>
+            var idade = prompt("Informe a idade: ");
+            if (idade < 12) {
+                alert("Criança!");
+            } else if (idade < 18) {
+                alert("Adolescente!");
+            } else if (idade < 30) {
+                alert("Jovem!");
+            } else if (idade < 60) {
+                alert ("Adulto!");
+            } else {
+                alert("Idoso!");
+            }
+        </script-->
+        <!--script>
+            var opcao = prompt("Informe a opcao: ");
+            switch (opcao) {
+                case "1":
+                    alert("Escolheu a opcao 1");
+                    break;
+                case "2":
+                    alert("Escolheu a opcao 2");
+                    break;
+                default:
+                    alert("Opcao invalida!")
+                    break;
+            }
+        </script-->
+        <!--script>
+            var opcao = parseInt(prompt("Informe a opcao: "));
+            switch (opcao) {
+                case 1:
+                    alert("Escolheu a opcao 1");
+                    break;
+                case 2:
+                    alert("Escolheu a opcao 2");
+                    break;
+                default:
+                    alert("Opcao invalida!")
+                    break;
+            }
+        </script-->
+
+        <!--script>
+            var cont = 0;
+            while (cont < 5) {
+                alert("O valor de cont e: " + cont);
+                //cont = cont + 1;
+                //cont += 2;
+                cont++;
+            }
+        </script-->
+        <!--script>
+            var parada = prompt("Deseja continuar? ")
+            while (parada == "sim"){
+                alert("contiuando...");
+                parada = prompt("Deseja continuar? ")
+            }
+        </script-->
+        <!--script>
+            var parada;
+            do {
+                parada = prompt("Deseja continuar? ");
+                alert("continuando...");
+            } while (parada == "sim");
+        </script-->
+        <!--script>
+            var cont;
+            for (cont = 0; cont < 5; cont++) {
+                alert(cont);
+            }
+        </script-->
+
+        <!--script>
+            function soma(num1, num2){
+                var resultado = num1 + num2;
+                return resultado;
+            }
+
+            var num1 = parseInt(prompt("Informe num1: "));
+            var num2 = parseInt(prompt("Informe num2: "));
+
+            var somaDosNumeros = soma(num1, num2);
+            //alert(somaDosNumeros);
+            document.write(somaDosNumeros);
+        </script-->
+        
+    </body>
+</html>
