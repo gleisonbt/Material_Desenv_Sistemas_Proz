@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exemplo onKeyPress</title>
+</head>
+<body>
+
+  <h1>Exemplo onKeyPress</h1>
+  
+  <label for="inputText">Digite algo:</label>
+  <input type="text" id="inputText" onKeyPress="mostrarCodigoTecla(event)">
+  
+  <p id="codigoTecla">Código da última tecla pressionada: N/A</p>
+
+  <script>
+    function mostrarCodigoTecla(event) {
+      // Verifica se o objeto de evento possui a propriedade 'keyCode'
+      // (algumas versões mais recentes usam 'key' em vez de 'keyCode')
+      var codigoTecla = event.key || event.key.charCodeAt(0);
+
+      // Atualiza o texto na página com o código da tecla pressionada
+      document.getElementById("codigoTecla").innerText = "Código da última tecla pressionada: " + codigoTecla;
+    }
+  </script>
+
+</body>
+</html>
