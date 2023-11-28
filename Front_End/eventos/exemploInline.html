@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>Exemplo Inline</title>
+    </head>
+    <body>
+        <h1>Evento InLine</h1>
+
+        <label for="entrada">Digite algo: </label>
+        <input name="entrada" id="entradaTexto" type="text" onkeypress="mostrarTecla(event)">
+
+        <p id="teclaPress">Código da ultima tecla: </p>
+
+        <script>
+            function mostrarTecla(event) {
+                var tecla = event.key;
+                /*console.log("Tecla pressionada: " + tecla);
+                console.log(document.
+                    getElementById("teclaPress"));*/
+                document.getElementById("teclaPress").
+                    innerText  = "Tecla pressionada: " + tecla;    
+            }
+
+
+        </script>
+    </body>
+</html>
